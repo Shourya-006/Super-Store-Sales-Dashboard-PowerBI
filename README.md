@@ -42,12 +42,12 @@ Interactive Slicers & Cross-filtering
 
 📸 Dashboard Preview
 
-![Dashboard](Dashboard Overview.png)
+![Dashboard](Dashboard_Overview.png)
 
 
 Page 2 — Sales Forecast 
 
-![Dashboard](Sales Forecasting.png)
+![Dashboard](Sales_Forecasting.png)
 
 
 🔍 Key Insights
