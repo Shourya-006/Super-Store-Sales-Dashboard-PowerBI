@@ -42,12 +42,12 @@ Interactive Slicers & Cross-filtering
 
 📸 Dashboard Preview
 
-![Dashboard](Dashboard_Overview.png)
+![Dashboard](Dashboard Overview.png)
 
 
 Page 2 — Sales Forecast 
 
-![Dashboard](Sales_Forecasting.png)
+![Dashboard](Sales Forecasting.png)
 
 
 🔍 Key Insights
@@ -157,7 +157,13 @@ dashboard_page2.png → Forecast & state breakdown screenshot
 
 README.md → This file
 
-Dashboard screenshots → Visual preview  
+Dashboard Demo.mp4 → Visual preview 
+
+
+SuperStore Sales DataSet.xlsx → Raw Data
+
+Additional screenshots showing interactivity   
+
 
 🚀 How to Use
 -
